@@ -53,8 +53,8 @@ The workflow is managed by a `StateGraph` consisting of specialized nodes:
 **1. Clone the repository**
 
 ```bash
-git clone <your-repo-url>
-cd ProjectSentinelPSCA
+git clone https://github.com/abdulmonimlodhi/Project-Sentinel-PSCA
+cd Project-Sentinel-PSCA
 
 ```
 
