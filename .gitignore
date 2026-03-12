@@ -1,0 +1,14 @@
+# Ignore environment variables (API Keys)
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore Mac system files
+.DS_Store
